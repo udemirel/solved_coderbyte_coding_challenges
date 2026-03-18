@@ -1,4 +1,4 @@
-/*
+/*   DONE by ufde
 Coderbyte coding challenge: Palindrome Two
 
 Using the C++ language, have the function PalindromeTwo(str) take the str
